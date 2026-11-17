@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Host
+Host: https://zenoxtech.com
+
+# Sitemaps
+Sitemap: https://zenoxtech.com/sitemap.xml
